@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The farmers reformation: or, a Pattern for all bad husbands to amend their lives. When all is spent, there's no content, but sorrow will attend: before too late, renew thy state, and learn thy life to mend. Tune of, the Ladyes of London. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03430</idno>
+            <idno type="STC">Wing F446</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[106]</idno>
+            <idno type="EEBO-CITATION">99887142</idno>
+            <idno type="PROQUEST">ocm99887142</idno>
+            <idno type="VID">181856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181856)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The farmers reformation: or, a Pattern for all bad husbands to amend their lives. When all is spent, there's no content, but sorrow will attend: before too late, renew thy state, and learn thy life to mend. Tune of, the Ladyes of London. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R[ichard]. Kell, at the Blew Anchor near Pye-Corner.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1687 or 8]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I have been such a bad husband of late ..."</note>
+                  <note>Publisher's name and date of publication from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181856:1"/>
+            <!-- PDF PAGE 3 -->
+            <head>The Farmers Reformation:</head>
+            <head type="sub">OR, a Pattern for all Bad Husbands to Amend their Lives.</head>
+            <argument>
+               <l>When all is ſpent, there's no content,</l>
+               <l>but Sorrow will attend:</l>
+               <l>Before too late, renew thy State,</l>
+               <l>and learn thy Life to mend.</l>
+            </argument>
+            <opener>Tune of, the <hi>Ladyes of London.</hi>
+            </opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be printed,</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Have been ſuch a bad Husband of late,</l>
+               <l>that trouble and ſorrow's enſuing</l>
+               <l>Having conſumed a worthy Eſtate,</l>
+               <l>which almoſt has proved my Ruine.</l>
+               <l>Now I reſolve to alter my Life,</l>
+               <l>that Comforts I may be poſſeſſing,</l>
+               <l>And will be loving and kind to my Wife;</l>
+               <l>there can be no greater a bleſſing.</l>
+            </lg>
+            <lg>
+               <l>How like a ſorrowful Man do I look;</l>
+               <l>I troubled am out of meaſure;</l>
+               <l>When I conſider'd the courſes I took,</l>
+               <l>while I was conſuming my treaſure:</l>
+               <l>Every Day I waſted my ſtore,</l>
+               <l>and call'd a good Husband a Miſer;</l>
+               <l>But I reſolve I will do ſo no more,</l>
+               <l>but leave off, and learn to be wiſer.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>When to the Market I went with my Corn,</l>
+               <l>as ſoon as I ſold it, to Gaming:</l>
+               <l>I ſpent more free than a Gentleman born;</l>
+               <l>yet thought I wan't worthy of blaming.</l>
+               <l>Some I would lend, to others I'de give,</l>
+               <l>and they'd be as commonly craving:</l>
+               <l>But I will do ſo no more while I live,</l>
+               <l>I'll learn to be Thrifty and ſaving.</l>
+            </lg>
+            <lg>
+               <l>I from the Ale-houſe to the Tavern wou'd come,</l>
+               <l>with thoſe that wou'd call me their honey:</l>
+               <l>All the long night I would ſeldom come home,</l>
+               <l>as long as I had any Money,</l>
+               <l>While my poor Wife ſhed many a Tear,</l>
+               <l>to ſee how I dayly did uſe her:</l>
+               <l>But I will now be more kind to my Dear,</l>
+               <l>and never no more will abuſe her.</l>
+            </lg>
+            <lg>
+               <l>By this my Gaming I ſoon made a hand</l>
+               <l>of what my old Father did leave me,</l>
+               <l>As being forced to Morgage my Land;</l>
+               <l>this did of all Comfort bereave me:</l>
+               <l>So that I then was near to deſpair,</l>
+               <l>and gave my ſelf to melancholly:</l>
+               <l>But at length I reſolv'd to take care,</l>
+               <l>now, now, I have ſeen my own folly.</l>
+            </lg>
+            <lg>
+               <l>While to that ruinous rate I did run,</l>
+               <l>I ſeldom or never repented,</l>
+               <l>Till I perceived that I was undone,</l>
+               <l>and then I was griev<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and lamented;</l>
+               <l>Yet I reſolv<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d this courſe I would take,</l>
+               <l>for the future time that's enſuing,</l>
+               <l>All my bay Company I would forſake;</l>
+               <l>I found they had proved my Ruine.</l>
+            </lg>
+            <lg>
+               <l>My Goods and Comforts doth daily increaſe,</l>
+               <l>by Labour I this have obtained,</l>
+               <l>And my kind Wife has the bleſſing of peace,</l>
+               <l>ſince Company I have refrained:</l>
+               <l>Yet my old Cronys flout me each day,</l>
+               <l>and count me no more than a Miſer;</l>
+               <l>Yet I'll not value what ever they ſay,</l>
+               <l>I mean to grow older and wiſer,</l>
+            </lg>
+            <lg>
+               <l>E'ry bad Husband take warning by this,</l>
+               <l>and count it not as a dead Letter:</l>
+               <l>Though by your Folly you have done amiſs,</l>
+               <l>'tis never too late to grow better:</l>
+               <l>If thou haſt got a loving kind wife,</l>
+               <l>then, then, thou haſt reaſon to prize her;</l>
+               <l>Ay and to Love her as dear as thy Life,</l>
+               <l>and always grow older and wiſer.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Kell,</hi> at the Blew Anchor near <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
